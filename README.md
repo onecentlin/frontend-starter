@@ -9,6 +9,11 @@ Simply clone the starter package, and get ready to build frontend files.
 
 ## Installation & Setup
 
+Remember to delete `.git/` folder and `README.md` file, and re-initialize your version control.
+
+    rm -rf .git
+    git init
+
 ### Install Node
 
 Node.js is must have tool.
