@@ -1,2 +1,6 @@
-// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+$default-color: navy;
+
+body {
+  color: $default-color;
+}
 

@@ -1,5 +1,11 @@
+# laravel default ignore settings
 /vendor
 /node_modules
 Homestead.yaml
 Homestead.json
 .env
+
+#----------------------------------------------
+# ignore build files (change to fit your needs)
+#----------------------------------------------
+public/assets/
