@@ -16,7 +16,7 @@ Remember to delete `.git/` folder and `README.md` file, and re-initialize your v
 
 ### Install Node
 
-Node.js is must have tool.
+Node.js is a must have tool before using laravel-elixer.
 
 Download and install from <https://nodejs.org>
 
